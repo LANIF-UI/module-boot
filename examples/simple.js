@@ -5,6 +5,6 @@ import ReactDOM from 'react-dom';
 
 ReactDOM.render(<div>
   <div>
-    Hello,world
+    Hello,world~
   </div>
 </div>, document.getElementById('__react-content'));
